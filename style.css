@@ -88,10 +88,6 @@ img:hover {
   position: relative;
 }
 
-.recipe-content ul li::before {
-  display: none;
-}
-
 .recipe-content ol {
   counter-reset: steps;
   margin: 1.5rem 0;
@@ -153,7 +149,7 @@ a {
 
 a:hover {
   color: #c0392b;
-  background-color: rgba(231, 76, 60, 0.1);
+  background-color: rgba(97, 23, 15, 0.1);
   transform: translateY(-1px);
 }
 
